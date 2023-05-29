@@ -3,6 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
+![me](/assets/Me_portrait.jpeg)
 
 My name is Suchen Ding, and I am thrilled to have the opportunity to share my background and experiences with you. Currently residing in Irvine, CA, I am an ambitious individual driven by a passion for Film and Media Studies. As I embark on my journey to pursue a PhD in this field at the prestigious University of California, Irvine, starting in August 2023, I am excited to delve deeper into the realms of visual storytelling and its impact on society.
 
@@ -24,10 +25,5 @@ In conclusion, I am excited to embark on the next phase of my academic journey a
 
 Thank you for taking the time to get to know me better. I am eager to connect with all of you and embrace the endless possibilities that lie ahead in our lives and careers.
 
-## Screenshots
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)

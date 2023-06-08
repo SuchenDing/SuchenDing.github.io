@@ -3,7 +3,7 @@ title: "Performative Intimacy and Precarity: “Just Chatting” Live Streaming 
 layout: post
 ---
 
-This paper was advised by Professor Anne Allison of Duke Cultural Anthrology.This paper adopts affective labor and places it into the
+This paper was advised by Professor Anne Allison of Duke Cultural Anthrology. This paper adopts affective labor and places it into the
 context of precarity to analyze the “Just Chatting” live streaming performance on Douyu. Precarity is registered in streamers’ financial,
 social status, and cultural belonging, the censorship from the platform and state, and the feature of digital labor. By
 analyzing the performance, I argue that the affective dimensions of live streaming provide viewers
